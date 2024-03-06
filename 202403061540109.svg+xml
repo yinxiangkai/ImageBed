@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 653.02 716.86">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-dasharray: 0 0 12 12;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-8, .cls-11, .cls-16 {
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-8, .cls-16 {
+        stroke: #f18712;
+      }
+
+      .cls-2, .cls-5, .cls-7 {
+        stroke: #ed7d31;
+      }
+
+      .cls-2, .cls-10 {
+        stroke-dasharray: 0 0 10.95 10.95;
+      }
+
+      .cls-3, .cls-4, .cls-12 {
+        stroke: #205867;
+      }
+
+      .cls-3, .cls-6 {
+        stroke-dasharray: 0 0 9.98 9.98;
+      }
+
+      .cls-17 {
+        fill: #ffc000;
+      }
+
+      .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25 {
+        stroke-width: 0px;
+      }
+
+      .cls-4, .cls-7, .cls-9, .cls-13 {
+        stroke-dasharray: 0 0 12.04 12.04;
+      }
+
+      .cls-18 {
+        fill: #e6e6e6;
+      }
+
+      .cls-6, .cls-13, .cls-14 {
+        stroke: #598b00;
+      }
+
+      .cls-8 {
+        stroke-dasharray: 0 0 12.75 12.75;
+      }
+
+      .cls-9, .cls-10, .cls-15 {
+        stroke: #2854a4;
+      }
+
+      .cls-20 {
+        fill: #73b3dd;
+      }
+
+      .cls-21 {
+        fill: #2854a4;
+      }
+
+      .cls-11 {
+        stroke: #000;
+      }
+
+      .cls-22 {
+        fill: #70ad47;
+      }
+
+      .cls-23 {
+        fill: #5b9bd5;
+      }
+
+      .cls-26 {
+        font-size: 16.04px;
+      }
+
+      .cls-26, .cls-27, .cls-28 {
+        font-family: Consolas-Bold, Consolas;
+        font-weight: 700;
+      }
+
+      .cls-27, .cls-28 {
+        font-size: 21.38px;
+      }
+
+      .cls-24 {
+        fill: #205867;
+      }
+
+      .cls-28 {
+        fill: #fff;
+      }
+
+      .cls-25 {
+        fill: #f18712;
+      }
+    </style>
+  </defs>
+  <g id="_硬件内存结构" data-name="硬件内存结构">
+    <g>
+      <polyline class="cls-16" points="401.02 709.86 401.02 715.86 395.02 715.86"/>
+      <line class="cls-1" x1="383.02" y1="715.86" x2="29.06" y2="715.86"/>
+      <polyline class="cls-16" points="23.07 715.86 17.07 715.86 17.07 709.86"/>
+      <line class="cls-8" x1="17.07" y1="697.12" x2="17.07" y2="525.02"/>
+      <polyline class="cls-16" points="17.07 518.65 17.07 512.65 23.07 512.65"/>
+      <line class="cls-1" x1="35.06" y1="512.65" x2="389.02" y2="512.65"/>
+      <polyline class="cls-16" points="395.02 512.65 401.02 512.65 401.02 518.65"/>
+      <line class="cls-8" x1="401.02" y1="531.4" x2="401.02" y2="703.49"/>
+    </g>
+    <rect class="cls-25" x="28.51" y="587.02" width="361.06" height="32.96"/>
+    <rect class="cls-25" x="28.51" y="630.79" width="361.06" height="32.96"/>
+    <rect class="cls-25" x="28.51" y="674.57" width="361.06" height="32.96"/>
+    <text class="cls-28" transform="translate(136.8 565.31) scale(1.02 1)"><tspan x="0" y="0">Local Memory</tspan></text>
+    <text class="cls-28" transform="translate(124.75 608.45) scale(1.02 1)"><tspan x="0" y="0">Texture Memory</tspan></text>
+    <text class="cls-28" transform="translate(118.73 652.05) scale(1.02 1)"><tspan x="0" y="0">Constant Memory</tspan></text>
+    <text class="cls-28" transform="translate(130.77 696.64) scale(1.02 1)"><tspan x="0" y="0">Global Memory</tspan></text>
+    <text class="cls-26" transform="translate(195.5 534.68) scale(1.02 1)"><tspan x="0" y="0">HBM</tspan></text>
+    <rect class="cls-18" width="644.12" height="405.44"/>
+    <text class="cls-27" transform="translate(504.06 202.48) scale(1.02 1)"><tspan x="0" y="0">ON-CHIP</tspan></text>
+    <g>
+      <rect class="cls-17" x="511.43" y="523.75" width="141.59" height="192.46"/>
+      <text class="cls-28" transform="translate(558.14 612.74) scale(1.02 1)"><tspan x="0" y="0">Host</tspan><tspan x="-11.76" y="25.66">Memory</tspan></text>
+    </g>
+    <text class="cls-26" transform="translate(441.52 614.37) scale(1.02 1)"><tspan x="0" y="0">PCIE</tspan></text>
+    <g>
+      <line class="cls-11" x1="413.07" y1="619.98" x2="499.36" y2="619.98"/>
+      <path class="cls-19" d="M401,619.98c5.68,2.11,12.73,5.7,17.09,9.51l-3.44-9.51,3.44-9.51c-4.37,3.81-11.42,7.4-17.09,9.51Z"/>
+      <path class="cls-19" d="M511.43,619.98c-5.68,2.11-12.73,5.7-17.09,9.51l3.44-9.51-3.44-9.51c4.37,3.81,11.42,7.4,17.09,9.51Z"/>
+    </g>
+    <g>
+      <line class="cls-11" x1="209.04" y1="146.95" x2="209.04" y2="162.14"/>
+      <path class="cls-19" d="M209.04,140.92c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+      <path class="cls-19" d="M209.04,168.18c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+    </g>
+    <g>
+      <rect class="cls-23" x="28.51" y="169.48" width="361.06" height="38.26"/>
+      <text class="cls-28" transform="translate(76.59 194.19) scale(1.02 1)"><tspan x="0" y="0">L1 Cache\Shared Memory</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-20" x="28.51" y="416.08" width="361.06" height="65.33"/>
+      <text class="cls-28" transform="translate(160.88 454.33) scale(1.02 1)"><tspan x="0" y="0">L2 Cache</tspan></text>
+    </g>
+    <g>
+      <polyline class="cls-14" points="389.57 66.16 389.57 72.16 383.57 72.16"/>
+      <line class="cls-13" x1="371.54" y1="72.16" x2="40.53" y2="72.16"/>
+      <polyline class="cls-14" points="34.51 72.16 28.51 72.16 28.51 66.16"/>
+      <line class="cls-6" x1="28.51" y1="56.19" x2="28.51" y2="21.26"/>
+      <polyline class="cls-14" points="28.51 16.28 28.51 10.28 34.51 10.28"/>
+      <line class="cls-13" x1="46.55" y1="10.28" x2="377.56" y2="10.28"/>
+      <polyline class="cls-14" points="383.57 10.28 389.57 10.28 389.57 16.28"/>
+      <line class="cls-6" x1="389.57" y1="26.25" x2="389.57" y2="61.18"/>
+    </g>
+    <g>
+      <polyline class="cls-12" points="389.57 134.92 389.57 140.92 383.57 140.92"/>
+      <line class="cls-4" x1="371.54" y1="140.92" x2="40.53" y2="140.92"/>
+      <polyline class="cls-12" points="34.51 140.92 28.51 140.92 28.51 134.92"/>
+      <line class="cls-3" x1="28.51" y1="124.94" x2="28.51" y2="90.02"/>
+      <polyline class="cls-12" points="28.51 85.03 28.51 79.03 34.51 79.03"/>
+      <line class="cls-4" x1="46.55" y1="79.03" x2="377.56" y2="79.03"/>
+      <polyline class="cls-12" points="383.57 79.03 389.57 79.03 389.57 85.03"/>
+      <line class="cls-3" x1="389.57" y1="95" x2="389.57" y2="129.93"/>
+    </g>
+    <text class="cls-26" transform="translate(172.92 129) scale(1.02 1)"><tspan x="0" y="0">Register</tspan></text>
+    <text class="cls-26" transform="translate(168.4 30.93) scale(1.02 1)"><tspan x="0" y="0">Cuda Core</tspan></text>
+    <g>
+      <g>
+        <rect class="cls-22" x="38.46" y="41.86" width="24.71" height="22.37"/>
+        <rect class="cls-24" x="38.46" y="86.96" width="24.71" height="22.37"/>
+        <g>
+          <line class="cls-11" x1="50.81" y1="70.26" x2="50.81" y2="80.93"/>
+          <path class="cls-19" d="M50.81,64.23c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+          <path class="cls-19" d="M50.81,86.96c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+        </g>
+      </g>
+      <g>
+        <rect class="cls-22" x="309.71" y="41.86" width="24.71" height="22.37"/>
+        <rect class="cls-24" x="309.71" y="86.96" width="24.71" height="22.37"/>
+        <g>
+          <line class="cls-11" x1="322.06" y1="70.26" x2="322.06" y2="80.93"/>
+          <path class="cls-19" d="M322.06,64.23c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+          <path class="cls-19" d="M322.06,86.96c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+        </g>
+      </g>
+      <g>
+        <rect class="cls-22" x="264.5" y="41.86" width="24.71" height="22.37"/>
+        <rect class="cls-24" x="264.5" y="86.96" width="24.71" height="22.37"/>
+        <g>
+          <line class="cls-11" x1="276.85" y1="70.26" x2="276.85" y2="80.93"/>
+          <path class="cls-19" d="M276.85,64.23c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+          <path class="cls-19" d="M276.85,86.96c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+        </g>
+      </g>
+      <g>
+        <rect class="cls-22" x="219.29" y="41.86" width="24.71" height="22.37"/>
+        <rect class="cls-24" x="219.29" y="86.96" width="24.71" height="22.37"/>
+        <g>
+          <line class="cls-11" x1="231.65" y1="70.26" x2="231.65" y2="80.93"/>
+          <path class="cls-19" d="M231.65,64.23c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+          <path class="cls-19" d="M231.65,86.96c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+        </g>
+      </g>
+      <g>
+        <rect class="cls-22" x="174.08" y="41.86" width="24.71" height="22.37"/>
+        <rect class="cls-24" x="174.08" y="86.96" width="24.71" height="22.37"/>
+        <g>
+          <line class="cls-11" x1="186.44" y1="70.26" x2="186.44" y2="80.93"/>
+          <path class="cls-19" d="M186.44,64.23c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+          <path class="cls-19" d="M186.44,86.96c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+        </g>
+      </g>
+      <g>
+        <rect class="cls-22" x="128.87" y="41.86" width="24.71" height="22.37"/>
+        <rect class="cls-24" x="128.87" y="86.96" width="24.71" height="22.37"/>
+        <g>
+          <line class="cls-11" x1="141.23" y1="70.26" x2="141.23" y2="80.93"/>
+          <path class="cls-19" d="M141.23,64.23c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+          <path class="cls-19" d="M141.23,86.96c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+        </g>
+      </g>
+      <g>
+        <rect class="cls-22" x="83.67" y="41.86" width="24.71" height="22.37"/>
+        <rect class="cls-24" x="83.67" y="86.96" width="24.71" height="22.37"/>
+        <g>
+          <line class="cls-11" x1="96.02" y1="70.26" x2="96.02" y2="80.93"/>
+          <path class="cls-19" d="M96.02,64.23c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+          <path class="cls-19" d="M96.02,86.96c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+        </g>
+      </g>
+      <g>
+        <rect class="cls-22" x="354.91" y="41.86" width="24.71" height="22.37"/>
+        <rect class="cls-24" x="354.91" y="86.96" width="24.71" height="22.37"/>
+        <g>
+          <line class="cls-11" x1="367.27" y1="70.26" x2="367.27" y2="80.93"/>
+          <path class="cls-19" d="M367.27,64.23c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+          <path class="cls-19" d="M367.27,86.96c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+        </g>
+      </g>
+    </g>
+    <rect class="cls-23" x="28.51" y="228.43" width="361.06" height="38.26"/>
+    <text class="cls-28" transform="translate(124.75 253.15) scale(1.02 1)"><tspan x="0" y="0">Contanst Cache</tspan></text>
+    <g>
+      <rect class="cls-23" x="28.51" y="288.79" width="361.06" height="38.26"/>
+      <text class="cls-28" transform="translate(130.77 313.51) scale(1.02 1)"><tspan x="0" y="0">Texture Cache</tspan></text>
+    </g>
+    <g>
+      <g>
+        <text class="cls-26" transform="translate(195.5 366.84) scale(1.02 1)"><tspan x="0" y="0">Tex</tspan></text>
+        <g>
+          <rect class="cls-21" x="61.06" y="369.96" width="24.71" height="22.37"/>
+          <rect class="cls-21" x="151.48" y="369.96" width="24.71" height="22.37"/>
+          <rect class="cls-21" x="241.89" y="369.96" width="24.71" height="22.37"/>
+          <rect class="cls-21" x="332.31" y="370.99" width="24.71" height="22.37"/>
+        </g>
+      </g>
+      <g>
+        <polyline class="cls-15" points="389.57 389.96 389.57 395.96 383.57 395.96"/>
+        <line class="cls-9" x1="371.54" y1="395.96" x2="40.53" y2="395.96"/>
+        <polyline class="cls-15" points="34.51 395.96 28.51 395.96 28.51 389.96"/>
+        <line class="cls-10" x1="28.51" y1="379.01" x2="28.51" y2="362.58"/>
+        <polyline class="cls-15" points="28.51 357.1 28.51 351.1 34.51 351.1"/>
+        <line class="cls-9" x1="46.55" y1="351.1" x2="377.56" y2="351.1"/>
+        <polyline class="cls-15" points="383.57 351.1 389.57 351.1 389.57 357.1"/>
+        <line class="cls-10" x1="389.57" y1="368.05" x2="389.57" y2="384.48"/>
+      </g>
+    </g>
+    <g>
+      <line class="cls-11" x1="104.76" y1="149.43" x2="104.76" y2="227.93"/>
+      <path class="cls-19" d="M104.76,143.39c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+    </g>
+    <g>
+      <line class="cls-11" x1="367.25" y1="148.44" x2="367.25" y2="287.68"/>
+      <path class="cls-19" d="M367.25,142.41c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+    </g>
+    <g>
+      <line class="cls-11" x1="364.01" y1="403.28" x2="364.01" y2="418.23"/>
+      <path class="cls-19" d="M364.01,397.25c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+    </g>
+    <g>
+      <line class="cls-11" x1="51.39" y1="211.43" x2="51.39" y2="410.97"/>
+      <path class="cls-19" d="M51.39,205.39c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+      <path class="cls-19" d="M51.39,417c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+    </g>
+    <g>
+      <line class="cls-11" x1="367.25" y1="334.19" x2="367.25" y2="351.1"/>
+      <path class="cls-19" d="M367.25,328.16c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+    </g>
+    <g>
+      <line class="cls-11" x1="104.76" y1="273.34" x2="104.76" y2="417"/>
+      <path class="cls-19" d="M104.76,267.31c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+    </g>
+    <g>
+      <g>
+        <text class="cls-26" transform="translate(154.86 553.59) scale(1.02 1)"><tspan x="0" y="0">Lcoal Memory</tspan></text>
+        <g>
+          <rect class="cls-25" x="38.46" y="557.75" width="24.71" height="22.37"/>
+          <rect class="cls-25" x="309.71" y="557.75" width="24.71" height="22.37"/>
+          <rect class="cls-25" x="264.5" y="557.75" width="24.71" height="22.37"/>
+          <rect class="cls-25" x="219.29" y="557.75" width="24.71" height="22.37"/>
+          <rect class="cls-25" x="174.08" y="557.75" width="24.71" height="22.37"/>
+          <rect class="cls-25" x="128.87" y="557.75" width="24.71" height="22.37"/>
+          <rect class="cls-25" x="83.67" y="557.75" width="24.71" height="22.37"/>
+          <rect class="cls-25" x="354.91" y="557.75" width="24.71" height="22.37"/>
+        </g>
+      </g>
+      <g>
+        <polyline class="cls-5" points="389.57 576.71 389.57 582.71 383.57 582.71"/>
+        <line class="cls-7" x1="371.54" y1="582.71" x2="40.53" y2="582.71"/>
+        <polyline class="cls-5" points="34.51 582.71 28.51 582.71 28.51 576.71"/>
+        <line class="cls-2" x1="28.51" y1="565.76" x2="28.51" y2="549.33"/>
+        <polyline class="cls-5" points="28.51 543.86 28.51 537.86 34.51 537.86"/>
+        <line class="cls-7" x1="46.55" y1="537.86" x2="377.56" y2="537.86"/>
+        <polyline class="cls-5" points="383.57 537.86 389.57 537.86 389.57 543.86"/>
+        <line class="cls-2" x1="389.57" y1="554.81" x2="389.57" y2="571.24"/>
+      </g>
+    </g>
+    <g>
+      <line class="cls-11" x1="302.92" y1="486.4" x2="302.92" y2="530.4"/>
+      <path class="cls-19" d="M302.92,480.37c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+      <path class="cls-19" d="M302.92,536.43c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+    </g>
+    <g>
+      <line class="cls-11" x1="50.17" y1="488.14" x2="52.6" y2="672.03"/>
+      <path class="cls-19" d="M50.09,482.11c-1.02,2.85-2.77,6.4-4.64,8.61l4.73-1.78,4.78,1.66c-1.93-2.16-3.78-5.66-4.87-8.48Z"/>
+      <path class="cls-19" d="M52.68,678.07c-1.09-2.83-2.94-6.32-4.87-8.48l4.78,1.66,4.73-1.78c-1.88,2.21-3.63,5.76-4.64,8.61Z"/>
+    </g>
+    <g>
+      <line class="cls-11" x1="104.76" y1="488.2" x2="104.76" y2="631.6"/>
+      <path class="cls-19" d="M104.76,482.16c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+    </g>
+    <g>
+      <line class="cls-11" x1="361.1" y1="486.4" x2="361.1" y2="585.98"/>
+      <path class="cls-19" d="M361.1,480.37c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+    </g>
+    <g>
+      <line class="cls-11" x1="299.13" y1="211.43" x2="299.13" y2="410.97"/>
+      <path class="cls-19" d="M299.13,205.39c-1.05,2.84-2.85,6.36-4.76,8.55l4.76-1.72,4.75,1.72c-1.9-2.18-3.7-5.71-4.75-8.55Z"/>
+      <path class="cls-19" d="M299.13,417c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+    </g>
+  </g>
+</svg>
