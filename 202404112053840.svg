@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1023.21 443.49">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: #000;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-8, .cls-6 {
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        font-size: 21px;
+      }
+
+      .cls-5, .cls-9 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <g id="_处理器逻辑图" data-name="处理器逻辑图">
+    <g>
+      <rect class="cls-3" x="129.86" y="92.46" width="99.08" height="99.08"/>
+      <g>
+        <rect class="cls-2" x="123.77" y="98.49" width="99.08" height="99.08"/>
+        <text class="cls-6" transform="translate(139.19 153.54)"><tspan x="0" y="0">AI Core</tspan></text>
+      </g>
+    </g>
+    <g>
+      <rect class="cls-3" x="277.2" y="98.49" width="99.08" height="99.08"/>
+      <text class="cls-5" transform="translate(305.74 142.01)"><tspan x="0" y="0">任务</tspan><tspan x="-10.5" y="25.2">调度器</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-3" x="577.97" y="98.49" width="99.08" height="99.08"/>
+      <text class="cls-7" transform="translate(586.09 154.06)"><tspan class="cls-9" x="0" y="0">控制</tspan><tspan class="cls-8" x="42" y="0">CPU</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-2" x="37.83" y="275.24" width="124.84" height="66.06"/>
+      <text class="cls-5" transform="translate(58.25 302.24)"><tspan x="0" y="0">数字视觉</tspan><tspan x="-10.5" y="25.2">预处理模块</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-2" x="299.7" y="275.24" width="124.84" height="66.06"/>
+      <text class="cls-7" transform="translate(326.83 314.28)"><tspan class="cls-8" x="0" y="0">L3 </tspan><tspan class="cls-9" x="28.58" y="0">缓存</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-2" x="508.69" y="275.24" width="124.84" height="66.06"/>
+      <text class="cls-7" transform="translate(525.32 314.28)"><tspan class="cls-8" x="0" y="0">L2 </tspan><tspan class="cls-9" x="28.58" y="0">缓冲区</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-2" x="857.49" y="275.33" width="124.84" height="66.06"/>
+      <text class="cls-7" transform="translate(863.62 314.38)"><tspan class="cls-8" x="0" y="0">GPIO/I2C </tspan><tspan class="cls-9" x="91.59" y="0">等</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-3" x="430.63" y="92.46" width="99.08" height="99.08"/>
+      <g>
+        <rect class="cls-2" x="424.54" y="98.49" width="99.08" height="99.08"/>
+        <text class="cls-6" transform="translate(439.97 153.54)"><tspan x="0" y="0">AI CPU</tspan></text>
+      </g>
+    </g>
+    <line class="cls-1" x1="11.57" y1="236.41" x2="1005.26" y2="236.41"/>
+    <g>
+      <line class="cls-3" x1="100.25" y1="243.47" x2="100.25" y2="269.2"/>
+      <polygon class="cls-4" points="100.25 236.41 96.18 246.36 100.25 243.99 104.31 246.36 100.25 236.41"/>
+      <path class="cls-4" d="M100.25,275.24c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="173.31" y1="204.64" x2="173.31" y2="230.37"/>
+      <polygon class="cls-4" points="173.31 197.58 169.24 207.53 173.31 205.17 177.37 207.53 173.31 197.58"/>
+      <path class="cls-4" d="M173.31,236.41c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="326.74" y1="204.64" x2="326.74" y2="230.37"/>
+      <polygon class="cls-4" points="326.74 197.58 322.67 207.53 326.74 205.17 330.8 207.53 326.74 197.58"/>
+      <path class="cls-4" d="M326.74,236.41c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="362.12" y1="243.47" x2="362.12" y2="269.2"/>
+      <polygon class="cls-4" points="362.12 236.41 358.05 246.36 362.12 243.99 366.18 246.36 362.12 236.41"/>
+      <path class="cls-4" d="M362.12,275.24c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="474.08" y1="204.64" x2="474.08" y2="230.37"/>
+      <polygon class="cls-4" points="474.08 197.58 470.02 207.53 474.08 205.17 478.15 207.53 474.08 197.58"/>
+      <path class="cls-4" d="M474.08,236.41c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="571.11" y1="243.47" x2="571.11" y2="269.2"/>
+      <polygon class="cls-4" points="571.11 236.41 567.05 246.36 571.11 243.99 575.18 246.36 571.11 236.41"/>
+      <path class="cls-4" d="M571.11,275.24c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="627.51" y1="204.64" x2="627.51" y2="230.37"/>
+      <polygon class="cls-4" points="627.51 197.58 623.45 207.53 627.51 205.17 631.58 207.53 627.51 197.58"/>
+      <path class="cls-4" d="M627.51,236.41c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="926.71" y1="243.56" x2="926.71" y2="269.29"/>
+      <polygon class="cls-4" points="926.71 236.5 922.64 246.45 926.71 244.09 930.77 246.45 926.71 236.5"/>
+      <path class="cls-4" d="M926.71,275.33c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="760.19" y1="241.49" x2="760.19" y2="409.71"/>
+      <polygon class="cls-4" points="760.19 234.42 756.13 244.37 760.19 242.01 764.26 244.37 760.19 234.42"/>
+      <path class="cls-4" d="M760.19,415.75c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+    </g>
+    <text class="cls-5" transform="translate(957.3 221.6)"><tspan x="0" y="0">总线</tspan></text>
+    <g>
+      <line class="cls-3" x1="720.56" y1="33.08" x2="720.56" y2="228.39"/>
+      <polygon class="cls-4" points="720.56 26.02 716.49 35.97 720.56 33.61 724.62 35.97 720.56 26.02"/>
+      <path class="cls-4" d="M720.56,234.42c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+    </g>
+    <text class="cls-7" transform="translate(676.96 18.48)"><tspan class="cls-8" x="0" y="0">USB</tspan><tspan class="cls-9" x="40.85" y="0" xml:space="preserve"> 接口</tspan></text>
+    <g>
+      <line class="cls-3" x1="801.62" y1="33.08" x2="801.62" y2="228.39"/>
+      <polygon class="cls-4" points="801.62 26.02 797.56 35.97 801.62 33.61 805.69 35.97 801.62 26.02"/>
+      <path class="cls-4" d="M801.62,234.42c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+    </g>
+    <text class="cls-5" transform="translate(780.62 19.59)"><tspan x="0" y="0">网卡</tspan></text>
+    <g>
+      <line class="cls-3" x1="883.72" y1="33.08" x2="883.72" y2="230.28"/>
+      <polygon class="cls-4" points="883.72 26.02 879.65 35.97 883.72 33.61 887.78 35.97 883.72 26.02"/>
+      <path class="cls-4" d="M883.72,236.31c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
+    </g>
+    <text class="cls-7" transform="translate(839.09 18.48)"><tspan class="cls-8" x="0" y="0">PCIe </tspan><tspan class="cls-9" x="47.25" y="0">接口</tspan></text>
+    <text class="cls-7" transform="translate(688.01 437.05)"><tspan class="cls-8" x="0" y="0">DDR/HBM</tspan><tspan class="cls-9" x="98.02" y="0" xml:space="preserve"> 接口</tspan></text>
+    <rect class="cls-1" x="1" y="43.2" width="1021.21" height="355.38"/>
+  </g>
+</svg>
