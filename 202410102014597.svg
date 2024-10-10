@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 758.59 537.24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        font-size: 6px;
+      }
+
+      .cls-5 {
+        fill: #8abad2;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-7, .cls-8 {
+        stroke-width: .5px;
+      }
+
+      .cls-3, .cls-9, .cls-10 {
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+      }
+
+      .cls-6 {
+        fill: none;
+        stroke-width: .75px;
+      }
+
+      .cls-9, .cls-11 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        fill: #7eaba7;
+      }
+
+      .cls-8 {
+        fill: #bdcbe8;
+      }
+
+      .cls-15 {
+        letter-spacing: -.09em;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1-2" data-name="图层_1">
+    <g>
+      <g>
+        <rect class="cls-8" x="6.92" y="231.52" width="69.36" height="48.51"/>
+        <text class="cls-4" transform="translate(27.31 239.6)"><tspan class="cls-10"><tspan x="0" y="0">C++ Pirmer</tspan></tspan><tspan class="cls-1" x="-15.08" y="7.2">深度探索</tspan><tspan class="cls-10" x="8.92" y="7.2">C++</tspan><tspan class="cls-1" x="19.68" y="7.2">对象模型</tspan><tspan class="cls-10"><tspan x="-10.02" y="14.4">More E</tspan><tspan class="cls-14" x="8.14" y="14.4">f</tspan><tspan x="10.03" y="14.4">fective C++</tspan></tspan><tspan class="cls-10"><tspan x="-2.67" y="21.6">Essential C++</tspan></tspan><tspan class="cls-10" x="-3.67" y="28.8">ST</tspan><tspan class="cls-9" x="3.33" y="28.8">L</tspan><tspan class="cls-10" x="6.77" y="28.8"> </tspan><tspan class="cls-1" x="8.27" y="28.8">源码剖析</tspan><tspan class="cls-10" x="-.08" y="36">C++</tspan><tspan class="cls-1" x="10.68" y="36">标准库</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-5" x="6.92" y="218.88" width="69.36" height="13.87"/>
+        <text class="cls-3" transform="translate(33.33 227.86)"><tspan x="0" y="0">C/C++</tspan></text>
+      </g>
+    </g>
+    <g>
+      <rect class="cls-8" x="516.18" y="195.59" width="133.87" height="13.87"/>
+      <text class="cls-3" transform="translate(523.37 203.97)"><tspan x="0" y="0">General-Purpose Graphics Processor</tspan><tspan class="cls-12" x="88.31" y="0"> </tspan><tspan x="89.48" y="0">Architecture</tspan></text>
+      <rect class="cls-5" x="516.18" y="181.89" width="133.87" height="13.87"/>
+      <text class="cls-4" transform="translate(570.31 190.87)"><tspan class="cls-10" x="0" y="0">GPU </tspan><tspan class="cls-1" x="13.5" y="0">硬件</tspan></text>
+    </g>
+    <g>
+      <g>
+        <rect class="cls-8" x="6.92" y="381.1" width="46.89" height="20.77"/>
+        <text class="cls-4" transform="translate(16.09 389.73)"><tspan class="cls-10"><tspan x="0" y="0">Moon Math</tspan></tspan><tspan class="cls-1"><tspan x="1.12" y="7.2">证明-论证</tspan></tspan></text>
+      </g>
+      <g>
+        <rect class="cls-5" x="6.92" y="368.53" width="46.89" height="13.87"/>
+        <text class="cls-4" transform="translate(18.1 377.9)"><tspan class="cls-10" x="0" y="0">ZK</tspan><tspan class="cls-9" x="8" y="0">P</tspan><tspan class="cls-10" x="11.11" y="0"> </tspan><tspan class="cls-1" x="12.61" y="0">理论</tspan></text>
+      </g>
+    </g>
+    <g>
+      <rect class="cls-8" x=".25" y="497.44" width="76.84" height="39.55"/>
+      <text class="cls-4" transform="translate(23.92 507.34)"><tspan class="cls-1" x="0" y="0">林田轩</tspan><tspan class="cls-10" x="18" y="0"> </tspan><tspan class="cls-1" x="19.5" y="0">视频</tspan><tspan class="cls-1"><tspan x="-11.25" y="7.2">李宏毅深度学习教程</tspan></tspan><tspan class="cls-1"><tspan x="-11.25" y="14.4">模式识别与机器学习</tspan></tspan><tspan class="cls-1"><tspan x="3.75" y="21.6">白板推导</tspan></tspan></text>
+      <rect class="cls-5" x=".25" y="484.03" width="76.84" height="13.87"/>
+      <text class="cls-2" transform="translate(21.63 493.01)"><tspan x="0" y="0">人工智能理论</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-8" x="156.17" y="78.05" width="72.59" height="13.87"/>
+      <text class="cls-2" transform="translate(162.47 87.28)"><tspan x="0" y="0">并行计算与高性能计算</tspan></text>
+      <rect class="cls-5" x="156.17" y="64.18" width="72.59" height="13.87"/>
+      <text class="cls-2" transform="translate(180.47 73.16)"><tspan x="0" y="0">并行计算</tspan></text>
+    </g>
+    <g>
+      <text class="cls-3" transform="translate(172.59 244.38)"><tspan x="0" y="0">C/C++</tspan></text>
+      <text class="cls-3" transform="translate(172.59 244.38)"><tspan x="0" y="0">C/C++</tspan></text>
+      <rect class="cls-8" x="156.17" y="249.28" width="49.4" height="13.87"/>
+      <text class="cls-2" transform="translate(162.25 258.51)"><tspan x="0" y="0">汇编语言 王爽</tspan></text>
+      <rect class="cls-5" x="156.17" y="235.4" width="49.4" height="13.87"/>
+      <text class="cls-2" transform="translate(174.91 244.38)"><tspan x="0" y="0">汇编</tspan></text>
+    </g>
+    <g>
+      <text class="cls-3" transform="translate(299.37 280.7)"><tspan x="0" y="0">C/C++</tspan></text>
+      <text class="cls-3" transform="translate(299.37 280.7)"><tspan x="0" y="0">C/C++</tspan></text>
+      <rect class="cls-8" x="282.94" y="285.59" width="49.4" height="13.87"/>
+      <text class="cls-2" transform="translate(289.65 294.83)"><tspan x="0" y="0">现代编译原理</tspan></text>
+      <rect class="cls-5" x="282.94" y="271.72" width="49.4" height="13.87"/>
+      <text class="cls-2" transform="translate(295.68 280.7)"><tspan x="0" y="0">编译原理</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-8" x="282.94" y="104.58" width="133.87" height="35.06"/>
+      <text class="cls-3" transform="translate(296.86 112.96)"><tspan x="0" y="0">Programming Massively Parallel Processors</tspan><tspan x="27.75" y="7.2" xml:space="preserve">Programming  Guide</tspan><tspan x="28.08" y="14.4">Best Practices Guide</tspan><tspan x="45.07" y="21.6">Nsight</tspan></text>
+      <rect class="cls-5" x="282.94" y="90.89" width="133.87" height="13.87"/>
+      <text class="cls-3" transform="translate(341.3 99.86)"><tspan x="0" y="0">CUD</tspan><tspan class="cls-12" x="12.67" y="0">A</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-8" x="516.18" y="14.12" width="72.59" height="13.87"/>
+      <text class="cls-4" transform="translate(539.91 23.35)"><tspan class="cls-10" x="0" y="0">Cutlass </tspan><tspan class="cls-1" x="19.17" y="0">库</tspan></text>
+      <rect class="cls-5" x="516.18" y=".25" width="72.59" height="13.87"/>
+      <text class="cls-4" transform="translate(537.37 9.23)"><tspan class="cls-10" x="0" y="0">CUDA</tspan><tspan class="cls-1" x="17" y="0" xml:space="preserve"> 编程</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-8" x="516.18" y="65.62" width="72.59" height="13.87"/>
+      <text class="cls-3" transform="translate(537.32 74.85)"><tspan x="0" y="0">GPGPU-smi</tspan></text>
+      <rect class="cls-5" x="516.18" y="51.75" width="72.59" height="13.87"/>
+      <text class="cls-4" transform="translate(540.49 60.72)"><tspan class="cls-10" x="0" y="0">GPU</tspan><tspan class="cls-1" x="12" y="0">调度</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-8" x="516.18" y="121.26" width="72.59" height="34.97"/>
+      <text class="cls-3" transform="translate(541.4 130.49)"><tspan x="0" y="0">PTX IS</tspan><tspan class="cls-12" x="18.17" y="0">A</tspan><tspan x="-14.91" y="7.2">Inline PTX</tspan><tspan class="cls-12" x="11.92" y="7.2"> </tspan><tspan x="13.09" y="7.2">Assembly</tspan><tspan x="3.91" y="14.4">SASS</tspan><tspan x="-16.58" y="21.6">CUD</tspan><tspan class="cls-12" x="-3.91" y="21.6">A</tspan><tspan x=".09" y="21.6" xml:space="preserve"> Binary Utilities</tspan></text>
+      <rect class="cls-5" x="516.18" y="107.39" width="72.59" height="13.87"/>
+      <text class="cls-4" transform="translate(533.87 116.37)"><tspan class="cls-10" x="0" y="0">GPU</tspan><tspan class="cls-1" x="12" y="0" xml:space="preserve"> 低级语言</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-8" x="282.94" y="225.73" width="117.73" height="13.87"/>
+      <text class="cls-3" transform="translate(290.86 234.11)"><tspan x="0" y="0">Digital Design and Computer</tspan><tspan class="cls-12" x="70.82" y="0"> </tspan><tspan x="71.99" y="0">Architecture</tspan></text>
+      <rect class="cls-5" x="282.95" y="212.04" width="117.73" height="13.87"/>
+      <text class="cls-2" transform="translate(323.83 221.01)"><tspan x="0" y="0">底层硬件原理</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-8" x="283.13" y="342.21" width="72.59" height="13.87"/>
+      <text class="cls-2" transform="translate(307.44 351.44)"><tspan x="0" y="0">相关文献</tspan></text>
+      <rect class="cls-7" x="283.13" y="328.33" width="72.59" height="13.87"/>
+      <text class="cls-4" transform="translate(304.13 337.31)"><tspan class="cls-10" x="0" y="0">ZK</tspan><tspan class="cls-9" x="8" y="0">P</tspan><tspan class="cls-10" x="11.11" y="0"> </tspan><tspan class="cls-1" x="12.61" y="0">编译器</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-8" x="156.17" y="385.2" width="72.59" height="13.87"/>
+      <text class="cls-2" transform="translate(165.47 394.43)"><tspan x="0" y="0">精通区块链开发技术</tspan></text>
+      <rect class="cls-7" x="156.17" y="371.33" width="72.59" height="13.87"/>
+      <text class="cls-4" transform="translate(180.17 380.3)"><tspan class="cls-10" x="0" y="0">ZK</tspan><tspan class="cls-9" x="8" y="0">P</tspan><tspan class="cls-10" x="11.11" y="0"> </tspan><tspan class="cls-1" x="12.61" y="0">应用</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-8" x="156.36" y="502.4" width="76.84" height="29.63"/>
+      <text class="cls-4" transform="translate(161.91 512.3)"><tspan class="cls-10"><tspan x="0" y="0">Deep learning with Py</tspan><tspan class="cls-13" x="53.82" y="0">T</tspan><tspan x="57.07" y="0">orch</tspan></tspan><tspan class="cls-1"><tspan x="15.86" y="7.2">机器学习实战</tspan></tspan></text>
+      <rect class="cls-5" x="156.36" y="488.99" width="76.84" height="13.87"/>
+      <text class="cls-2" transform="translate(177.74 497.97)"><tspan x="0" y="0">人工智能实践</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-8" x="516.87" y="452.85" width="72.59" height="13.87"/>
+      <text class="cls-2" transform="translate(541.17 462.08)"><tspan x="0" y="0">相关文献</tspan></text>
+      <rect class="cls-7" x="516.87" y="437.98" width="72.59" height="14.87"/>
+      <text class="cls-4" transform="translate(530.37 446.96)"><tspan class="cls-10" x="0" y="0">ZK</tspan><tspan class="cls-9" x="8" y="0">P</tspan><tspan class="cls-10" x="11.11" y="0" xml:space="preserve"> ML</tspan><tspan class="cls-1" x="21.61" y="0">算子加速</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-8" x="516.87" y="404.28" width="72.59" height="13.87"/>
+      <text class="cls-2" transform="translate(541.17 413.52)"><tspan x="0" y="0">相关文献</tspan></text>
+      <rect class="cls-7" x="516.87" y="390.41" width="72.59" height="13.87"/>
+      <text class="cls-4" transform="translate(534.12 399.39)"><tspan class="cls-10" x="0" y="0">ZK</tspan><tspan class="cls-9" x="8" y="0">P</tspan><tspan class="cls-10" x="11.11" y="0" xml:space="preserve">  </tspan><tspan class="cls-1" x="14.11" y="0">算子加速</tspan></text>
+    </g>
+    <g>
+      <line class="cls-6" x1="76.28" y1="249.55" x2="150.87" y2="249.55"/>
+      <polygon points="156.17 249.55 148.71 252.6 150.48 249.55 148.71 246.5 156.17 249.55"/>
+    </g>
+    <line class="cls-6" x1="107.21" y1="78.01" x2="107.21" y2="285.59"/>
+    <g>
+      <line class="cls-6" x1="107.21" y1="285.59" x2="277.65" y2="285.59"/>
+      <polygon points="282.94 285.59 275.48 288.64 277.25 285.59 275.48 282.54 282.94 285.59"/>
+    </g>
+    <g>
+      <line class="cls-6" x1="107.21" y1="78.01" x2="150.87" y2="78.05"/>
+      <polygon points="156.17 78.05 148.7 81.09 150.48 78.05 148.71 75 156.17 78.05"/>
+    </g>
+    <line class="cls-6" x1="205.57" y1="249.28" x2="230.94" y2="249.28"/>
+    <line class="cls-6" x1="230.94" y1="285.59" x2="230.94" y2="163.09"/>
+    <g>
+      <line class="cls-6" x1="230.94" y1="225.91" x2="277.65" y2="225.91"/>
+      <polygon points="282.95 225.91 275.48 228.96 277.25 225.91 275.48 222.86 282.95 225.91"/>
+    </g>
+    <g>
+      <line class="cls-6" x1="247.21" y1="112.66" x2="277.65" y2="113"/>
+      <polygon points="282.94 113.06 275.45 116.02 277.25 112.99 275.52 109.92 282.94 113.06"/>
+    </g>
+    <line class="cls-6" x1="416.82" y1="107.38" x2="476.88" y2="107.38"/>
+    <line class="cls-6" x1="476.84" y1="14.11" x2="477.22" y2="195.59"/>
+    <g>
+      <line class="cls-6" x1="476.84" y1="14.11" x2="510.89" y2="14.12"/>
+      <polygon points="516.18 14.12 508.72 17.17 510.49 14.12 508.72 11.07 516.18 14.12"/>
+    </g>
+    <g>
+      <line class="cls-6" x1="476.88" y1="65.62" x2="510.89" y2="65.62"/>
+      <polygon points="516.18 65.62 508.72 68.67 510.49 65.62 508.72 62.57 516.18 65.62"/>
+    </g>
+    <g>
+      <line class="cls-6" x1="476.88" y1="130.39" x2="510.89" y2="130.56"/>
+      <polygon points="516.18 130.58 508.71 133.6 510.49 130.56 508.74 127.5 516.18 130.58"/>
+    </g>
+    <g>
+      <line class="cls-6" x1="477.22" y1="195.59" x2="510.89" y2="195.59"/>
+      <polygon points="516.18 195.59 508.72 198.64 510.49 195.59 508.72 192.54 516.18 195.59"/>
+    </g>
+    <line class="cls-6" x1="230.94" y1="163.09" x2="476.88" y2="163.09"/>
+    <line class="cls-6" x1="588.77" y1="130.58" x2="707.57" y2="130.58"/>
+    <line class="cls-6" x1="650.06" y1="195.59" x2="707.57" y2="195.59"/>
+    <line class="cls-6" x1="707.57" y1="130.58" x2="707.57" y2="510.12"/>
+    <line class="cls-6" x1="589.16" y1="285.59" x2="707.19" y2="285.59"/>
+    <g>
+      <line class="cls-6" x1="77.09" y1="510.51" x2="151.07" y2="510.51"/>
+      <polygon points="156.36 510.51 148.9 513.56 150.67 510.51 148.9 507.46 156.36 510.51"/>
+    </g>
+    <g>
+      <line class="cls-6" x1="233.21" y1="510.51" x2="511.58" y2="510.51"/>
+      <polygon points="516.87 510.51 509.41 513.56 511.18 510.51 509.41 507.46 516.87 510.51"/>
+    </g>
+    <g>
+      <line class="cls-6" x1="53.8" y1="385.2" x2="150.87" y2="385.2"/>
+      <polygon points="156.17 385.2 148.71 388.25 150.48 385.2 148.71 382.15 156.17 385.2"/>
+    </g>
+    <g>
+      <line class="cls-6" x1="307.64" y1="299.46" x2="307.64" y2="323.04"/>
+      <polygon points="307.64 328.33 304.59 320.87 307.64 322.64 310.69 320.87 307.64 328.33"/>
+    </g>
+    <line class="cls-6" x1="107.21" y1="428.75" x2="107.21" y2="342.38"/>
+    <g>
+      <line class="cls-6" x1="107.05" y1="342.38" x2="277.65" y2="342.21"/>
+      <polygon points="282.94 342.21 275.48 345.26 277.25 342.21 275.48 339.17 282.94 342.21"/>
+    </g>
+    <line class="cls-6" x1="400.68" y1="226.15" x2="583.12" y2="226.15"/>
+    <g>
+      <line class="cls-6" x1="583.12" y1="214.76" x2="583.12" y2="226.15"/>
+      <polygon points="583.12 209.46 580.07 216.92 583.12 215.15 586.17 216.92 583.12 209.46"/>
+    </g>
+    <line class="cls-6" x1="583.12" y1="226.15" x2="707.19" y2="227.95"/>
+    <line class="cls-6" x1="588.77" y1="14.12" x2="758.22" y2="14.12"/>
+    <line class="cls-6" x1="758.22" y1="14.12" x2="758.22" y2="428.57"/>
+    <g>
+      <line class="cls-6" x1="321.47" y1="403.99" x2="510.76" y2="403.99"/>
+      <path d="M509.41,403.99l-1.64-2.7.09-.06,4.41,1.75c1.54.34,3.07.68,4.61,1.01-1.54.34-3.07.68-4.61,1.01l-4.41,1.75-.09-.05,1.64-2.72Z"/>
+    </g>
+    <g>
+      <line class="cls-6" x1="321.8" y1="452.26" x2="511.61" y2="453"/>
+      <polygon points="516.9 453.02 509.43 456.04 511.21 453 509.45 449.94 516.9 453.02"/>
+    </g>
+    <g>
+      <rect class="cls-8" x="516.87" y="510.12" width="72.59" height="13.87"/>
+      <text class="cls-2" transform="translate(546.53 519.35)"><tspan x="0" y="0">TVM</tspan></text>
+      <rect class="cls-7" x="516.87" y="496.25" width="72.59" height="13.87"/>
+      <text class="cls-4" transform="translate(540.26 505.22)"><tspan class="cls-10" x="0" y="0">AI </tspan><tspan class="cls-1" x="7.83" y="0">编译器</tspan></text>
+    </g>
+    <g>
+      <line class="cls-6" x1="332.34" y1="285.59" x2="510.89" y2="285.59"/>
+      <polygon points="516.18 285.59 508.72 288.64 510.49 285.59 508.72 282.54 516.18 285.59"/>
+    </g>
+    <g>
+      <rect class="cls-8" x="516.58" y="285.59" width="72.59" height="13.87"/>
+      <text class="cls-3" transform="translate(544.66 294.82)"><tspan x="0" y="0">L</tspan><tspan class="cls-15" x="3.67" y="0">L</tspan><tspan x="6.78" y="0">VM</tspan></text>
+      <rect class="cls-5" x="516.58" y="271.72" width="72.59" height="13.87"/>
+      <text class="cls-2" transform="translate(537.88 280.7)"><tspan x="0" y="0">编译器实践</tspan></text>
+    </g>
+    <line class="cls-6" x1="588.77" y1="65.62" x2="758.08" y2="65.62"/>
+    <line class="cls-6" x1="321.8" y1="452.26" x2="321.47" y2="403.69"/>
+    <g>
+      <line class="cls-6" x1="594.75" y1="404.28" x2="656.09" y2="404.28"/>
+      <polygon points="589.46 404.28 596.92 407.33 595.15 404.28 596.92 401.24 589.46 404.28"/>
+    </g>
+    <g>
+      <line class="cls-6" x1="656.09" y1="452.58" x2="594.75" y2="452.83"/>
+      <polygon points="589.46 452.85 596.91 449.77 595.15 452.83 596.93 455.87 589.46 452.85"/>
+    </g>
+    <g>
+      <line class="cls-6" x1="594.75" y1="510.12" x2="707.57" y2="510.12"/>
+      <polygon points="589.46 510.12 596.92 513.17 595.15 510.12 596.92 507.07 589.46 510.12"/>
+    </g>
+    <line class="cls-6" x1="656.09" y1="404.28" x2="656.09" y2="452.58"/>
+    <line class="cls-6" x1="758.22" y1="428.57" x2="656.47" y2="428.43"/>
+    <g>
+      <line class="cls-6" x1="414.99" y1="510.51" x2="414.99" y2="458.32"/>
+      <polygon points="414.99 453.02 418.04 460.48 414.99 458.71 411.94 460.48 414.99 453.02"/>
+    </g>
+    <line class="cls-6" x1="321.47" y1="428.57" x2="107.21" y2="428.75"/>
+    <g>
+      <rect class="cls-8" x="285.17" y="33.78" width="72.59" height="27.5"/>
+      <text class="cls-3" transform="translate(310.48 43.01)"><tspan x="0" y="0">AscendC</tspan><tspan x="-1.72" y="7.2">AscendC</tspan><tspan class="cls-11" x="20.27" y="7.2">L</tspan><tspan x="6" y="14.4">TIK</tspan></text>
+      <rect class="cls-5" x="285.17" y="19.91" width="72.59" height="13.87"/>
+      <text class="cls-3" transform="translate(315.15 28.88)"><tspan x="0" y="0">Atlas</tspan></text>
+    </g>
+    <line class="cls-6" x1="228.75" y1="78.05" x2="247.21" y2="78.05"/>
+    <line class="cls-6" x1="247.21" y1="112.66" x2="247.21" y2="43.1"/>
+    <g>
+      <line class="cls-6" x1="247.21" y1="43.05" x2="279.88" y2="43.41"/>
+      <polygon points="285.17 43.47 277.68 46.43 279.48 43.41 277.74 40.34 285.17 43.47"/>
+    </g>
+  </g>
+</svg>
