@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 131.56 33.02">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-dasharray: 3.09 3.09;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #262424;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: SimHei, SimHei;
+        font-size: 12px;
+      }
+
+      .cls-4 {
+        fill: #51924b;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <rect class="cls-4" x="71.5" width="60.06" height="18.5" rx="5.26" ry="5.26"/>
+    <ellipse class="cls-1" cx="101.53" cy="9.25" rx="4.79" ry="5.04" transform="translate(23.2 74.5) rotate(-45)"/>
+    <text class="cls-2" transform="translate(88.85 31.14)"><tspan x="0" y="0">状态1</tspan></text>
+    <rect class="cls-4" y="0" width="60.06" height="18.5" rx="5.26" ry="5.26"/>
+    <text class="cls-3" transform="translate(17.75 13.87)"><tspan x="0" y="0">运行</tspan></text>
+    <text class="cls-2" transform="translate(14.2 31.14)"><tspan x="0" y="0">状态0</tspan></text>
+  </g>
+</svg>
