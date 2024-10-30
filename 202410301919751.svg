@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 536.71 155.8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        stroke: #262424;
+      }
+
+      .cls-6 {
+        fill: #262424;
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+
+      .cls-7, .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-8, .cls-9, .cls-10 {
+        font-family: SimHei, SimHei;
+      }
+
+      .cls-8, .cls-10, .cls-11 {
+        font-size: 12px;
+      }
+
+      .cls-8, .cls-12 {
+        fill: #d35a2f;
+      }
+
+      .cls-9, .cls-10 {
+        fill: #d5652b;
+      }
+
+      .cls-2 {
+        stroke: #d35a2f;
+      }
+
+      .cls-3 {
+        fill: #e6e6e7;
+      }
+
+      .cls-13 {
+        fill: #6d6e70;
+      }
+
+      .cls-14 {
+        fill: #51924b;
+      }
+
+      .cls-4 {
+        fill: #d0d1d3;
+      }
+
+      .cls-5 {
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <rect class="cls-1" x=".5" y="25.67" width="535.71" height="115.78" rx="8.55" ry="8.55"/>
+    <rect class="cls-1" x=".5" y="25.47" width="127.82" height="115.99" rx="10.24" ry="10.24"/>
+    <text class="cls-10" transform="translate(47.05 41.93)"><tspan x="0" y="0">文本1</tspan></text>
+    <rect class="cls-4" x="8.04" y="31.64" width="27.41" height="10.68" rx="4.95" ry="4.95"/>
+    <rect class="cls-3" x="8.04" y="32.03" width="16.84" height="9.91" rx="4.95" ry="4.95"/>
+    <text class="cls-11" transform="translate(10.41 68.25)"><tspan class="cls-6" x="0" y="0">算子状态：</tspan><tspan class="cls-9" x="60" y="0">文本3</tspan></text>
+    <text class="cls-11" transform="translate(10.76 88.9)"><tspan class="cls-6" x="0" y="0">性能指标：</tspan><tspan class="cls-9" x="60" y="0">文本4</tspan><tspan class="cls-6" x="90" y="0" xml:space="preserve"> 次/S</tspan></text>
+    <text class="cls-11" transform="translate(11.14 108.83)"><tspan class="cls-6" x="0" y="0">实际性能：</tspan><tspan class="cls-9" x="60" y="0">文本5</tspan><tspan class="cls-6" x="90" y="0" xml:space="preserve"> 次/S</tspan></text>
+    <rect class="cls-14" x="34.79" y="116.03" width="60.06" height="18.5" rx="5.26" ry="5.26"/>
+    <text class="cls-8" transform="translate(52.54 129.01)"><tspan x="0" y="0">按钮1</tspan></text>
+    <text class="cls-10" transform="translate(141.31 46.63)"><tspan x="0" y="0">文本2</tspan></text>
+    <line class="cls-5" x1="325.68" y1="137.44" x2="334.17" y2="131.6"/>
+    <line class="cls-5" x1="326.42" y1="137.44" x2="317.93" y2="131.6"/>
+    <line class="cls-7" x1="136.97" y1="127.16" x2="94.85" y2="126.27"/>
+    <rect class="cls-14" x="400.16" width="60.06" height="18.5" rx="5.26" ry="5.26"/>
+    <text class="cls-8" transform="translate(417.91 12.98)"><tspan x="0" y="0">按钮2</tspan></text>
+    <rect class="cls-13" x="471.02" y="1.21" width="60.06" height="18.5" rx="5.26" ry="5.26"/>
+    <text class="cls-8" transform="translate(488.77 14.19)"><tspan x="0" y="0">按钮3</tspan></text>
+    <text class="cls-8" transform="translate(4.18 14.71)"><tspan x="0" y="0">滑动开关</tspan></text>
+    <text class="cls-8" transform="translate(309.99 153.92)"><tspan x="0" y="0">按钮4</tspan></text>
+    <g>
+      <line class="cls-2" x1="21.64" y1="15.96" x2="21.8" y2="26.3"/>
+      <polygon class="cls-12" points="21.86 29.83 19.75 24.89 21.8 26.04 23.81 24.83 21.86 29.83"/>
+    </g>
+  </g>
+</svg>
