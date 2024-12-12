@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 281 95.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b6eba0;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        fill: #d0e7e6;
+      }
+
+      .cls-5 {
+        fill: #e3e8dc;
+      }
+
+      .cls-6 {
+        fill: #f6d6d8;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 4.86 4.86;
+      }
+
+      .cls-7 {
+        font-family: SimHei, SimHei;
+        font-size: 12px;
+      }
+
+      .cls-8 {
+        fill: #f9e397;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <g>
+      <rect class="cls-8" x="104.58" width="73" height="42"/>
+      <text class="cls-7" transform="translate(129.18 13.31)"><tspan x="0" y="0">模型</tspan></text>
+      <g>
+        <rect class="cls-5" x="118.08" y="18" width="46" height="22"/>
+        <text class="cls-7" transform="translate(129.2 33.29)"><tspan x="0" y="0">参数</tspan></text>
+      </g>
+    </g>
+    <g>
+      <rect class="cls-4" y="10" width="54" height="22"/>
+      <text class="cls-7" transform="translate(15.02 25.17)"><tspan x="0" y="0">数据</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-6" x="226" y="8.62" width="55" height="25"/>
+      <text class="cls-7" transform="translate(228.87 25.36)"><tspan x="0" y="0">目标函数</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-1" x="113.58" y="70.62" width="55" height="25"/>
+      <text class="cls-7" transform="translate(129.15 87.36)"><tspan x="0" y="0">算法</tspan></text>
+    </g>
+    <g>
+      <g>
+        <line class="cls-2" x1="61.73" y1="22.74" x2="90.67" y2="22.74"/>
+        <polygon points="97.73 22.74 87.78 26.81 90.14 22.74 87.78 18.68 97.73 22.74"/>
+      </g>
+      <text class="cls-7" transform="translate(67.78 17.5)"><tspan x="0" y="0">输入</tspan></text>
+    </g>
+    <g>
+      <line class="cls-2" x1="184" y1="22.62" x2="212.94" y2="22.62"/>
+      <polygon points="220 22.62 210.05 26.69 212.41 22.62 210.05 18.56 220 22.62"/>
+    </g>
+    <text class="cls-7" transform="translate(190.05 17.38)"><tspan x="0" y="0">输出</tspan></text>
+    <g>
+      <path class="cls-2" d="M257,34.62c0,.84-.03,1.67-.1,2.49"/>
+      <path class="cls-3" d="M256.15,41.91c-5.14,21.76-32.94,38.95-68.16,42.17"/>
+      <path class="cls-2" d="M185.56,84.28c-.83.06-1.66.11-2.5.16"/>
+      <polygon points="176 84.62 185.82 80.25 183.58 84.39 186.07 88.37 176 84.62"/>
+    </g>
+    <text class="cls-7" transform="translate(229.61 82.85) scale(1.06 1)"><tspan x="0" y="0">评估结果</tspan></text>
+    <g>
+      <line class="cls-2" x1="141" y1="70.62" x2="141" y2="47.66"/>
+      <path d="M141,41.62c1.05,2.84,2.85,6.36,4.76,8.55l-4.76-1.72-4.75,1.72c1.9-2.18,3.7-5.71,4.75-8.55Z"/>
+    </g>
+    <text class="cls-7" transform="translate(144.27 64.22)"><tspan x="0" y="0">调整</tspan></text>
+  </g>
+</svg>
